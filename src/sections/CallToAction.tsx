@@ -1,7 +1,10 @@
+"use client"
+
 import ArrowRight from "@/assets/arrow-right.svg";
 import starImage from '@/assets/star.png'
 import springImage from '@/assets/spring.png'
 import Image from "next/image";
+import motion from "framer-motion"
 
 export const CallToAction = () => {
   return (
